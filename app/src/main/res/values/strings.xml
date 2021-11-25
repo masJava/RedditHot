@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <resources>
-    <string name="app_name">RedditHot</string>
+  <string name="app_name">Reddit Hot</string>
+    <string name="text_retry">Retry</string>
+    <string name="text_score_desc">Score Image</string>
+    <string name="text_comment_desc">Comment Image</string>
 </resources>
